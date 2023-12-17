@@ -1,0 +1,76 @@
+h2{
+    margin-bottom: 0px;
+}
+
+.formEventDate{
+    border: 1px solid #ccc;
+    margin-bottom: 30px;
+    background-color: rgb(247 247 247);
+}
+
+.headerFormEventDate{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #ccc;
+    padding: 10px;
+}
+
+.bodyFormEventDate{
+    display: flex;
+    justify-content: flex-start;
+    padding: 20px;
+}
+
+.formTicketTitle{
+    background-color: rgb(247 247 247);
+    width: 100%;
+    display: flex;
+    justify-content: flex-start;
+}
+
+.formTicket{
+    margin: 0px 20px 20px 20px;
+    background-color: rgb(205 205 205);
+}
+
+.headerFormTicket{
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+    background-color: rgb(170 170 170);
+}
+
+.bodyFormTicket{
+    width: 60% ;
+    display: flex;
+    justify-content: space-around;
+    margin: 30px;
+}
+
+.boxTicket{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border: 1px solid;
+    padding: 10px;
+}
+
+.DateFormTicket{
+    display: flex;
+    justify-content: flex-start;
+    margin: 20px;
+}
+
+.enterSeat{
+    width: 38%;
+    display: flex;
+    max-height: 195px;
+    overflow: auto;
+    border-left: 1px solid;
+    padding: 10px;
+}
+
+.buttonCreateEvent{
+    height: 50px;
+}

@@ -1,0 +1,15 @@
+@media only screen and (max-width: 480px){
+    .typrography{
+        display: none;
+    } 
+    .welcome{
+        margin-right: 5px;
+
+    }
+    .drawer{
+        max-width: 50px;
+    }
+    .box{
+        padding-left: 10px;
+    }
+}
